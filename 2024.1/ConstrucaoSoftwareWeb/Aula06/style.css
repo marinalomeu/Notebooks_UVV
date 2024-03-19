@@ -1,0 +1,19 @@
+body {
+  margin: 30px;
+  border-color: antiquewhite;
+}
+
+.intro {
+  padding: 20px;
+  padding-bottom: 0px;
+  border-bottom: 2px solid blueviolet;
+}
+
+.notes {
+  padding: 20px;
+  padding-bottom: 0px;
+}
+
+mark {
+  background: blueviolet;
+}
